@@ -1,0 +1,82 @@
+#header{
+    border-block-end: 1px solid red;
+    .text{
+        margin-left: 95vh;
+        margin-top: -2vh;
+    }
+    .basliq{
+        margin-top: 2vh;
+    }
+    .icons{
+      
+        background: rgb(177, 138, 111);
+        height: 35px;
+        text-align: center;
+        margin-left: 110vh;
+        width: 25vh;
+        margin-top: -4.5vh;
+    }
+}
+
+#header2{
+    .menu4{
+        margin-top: 5vh;
+       margin-left: 10vh; 
+       li{
+         margin-left: 2vh;
+       }  
+
+    }
+    .logo{
+        margin-top: 3.5vh;
+    }
+}
+
+
+#header3{
+    background: url(../foto/slider2.jpg);
+    height: 823px;
+    background-size: cover;
+    .foto{
+        button{
+            &:hover{
+background: yellowgreen;
+            }
+            width: 130px;
+            height: 35px;
+            color: white;
+            border: none;
+            background: rgb(146, 175, 87);
+        }
+        margin-top: 40vh;
+        color: white;
+        margin-left: -10vh;
+    }
+    .foto1{
+color: white;
+margin-top: -20vh;
+font-size: 4vh;
+margin-left: 146vh;
+
+    }
+}
+
+#header4{
+
+    background: black;
+    height: 100px;
+  .input1{
+      p{
+          width: 20vh;;
+      }
+      margin-left: 20vh;
+      margin-top: -7.4vh;
+  }
+  .input2{
+      p{
+          width: 20vh;
+      }
+      margin-left: 40vh;
+      margin-top: -7.2vh;
+  }
+}

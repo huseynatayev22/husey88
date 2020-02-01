@@ -1,0 +1,90 @@
+#header {
+  -webkit-border-after: 1px solid red;
+          border-block-end: 1px solid red;
+}
+
+#header .text {
+  margin-left: 95vh;
+  margin-top: -2vh;
+}
+
+#header .basliq {
+  margin-top: 2vh;
+}
+
+#header .icons {
+  background: #b18a6f;
+  height: 35px;
+  text-align: center;
+  margin-left: 110vh;
+  width: 25vh;
+  margin-top: -4.5vh;
+}
+
+#header2 .menu4 {
+  margin-top: 5vh;
+  margin-left: 10vh;
+}
+
+#header2 .menu4 li {
+  margin-left: 2vh;
+}
+
+#header2 .logo {
+  margin-top: 3.5vh;
+}
+
+#header3 {
+  background: url(../foto/slider2.jpg);
+  height: 823px;
+  background-size: cover;
+}
+
+#header3 .foto {
+  margin-top: 40vh;
+  color: white;
+  margin-left: -10vh;
+}
+
+#header3 .foto button {
+  width: 130px;
+  height: 35px;
+  color: white;
+  border: none;
+  background: #92af57;
+}
+
+#header3 .foto button:hover {
+  background: yellowgreen;
+}
+
+#header3 .foto1 {
+  color: white;
+  margin-top: -20vh;
+  font-size: 4vh;
+  margin-left: 146vh;
+}
+
+#header4 {
+  background: black;
+  height: 100px;
+}
+
+#header4 .input1 {
+  margin-left: 20vh;
+  margin-top: -7.4vh;
+}
+
+#header4 .input1 p {
+  width: 20vh;
+}
+
+#header4 .input2 {
+  margin-left: 40vh;
+  margin-top: -7.2vh;
+}
+
+#header4 .input2 p {
+  width: 20vh;
+}
+/*# sourceMappingURL=style.css.map */
